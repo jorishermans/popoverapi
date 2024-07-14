@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+    <head>
+        <link rel="stylesheet" href="style.css"></link>
+        <link rel="stylesheet" href="style-popover.css"></link>
+        <link rel="stylesheet" href="blur.css"></link>
+    </head>
+    <body>
+        <button popovertarget="my-popover" class="trigger-btn">Open Popover</button>
+        <div id="my-popover" popover>
+            <p>I am a manual popover with more information. </p>
+            <p> Hit the close me button or toggle to close me. </p>
+            <button class="close-btn" popovertarget="my-popover" popovertargetaction="hide">
+              <span class="sr-only">close me</span>
+            </button>
+          </div>
+    </body>
+</html>

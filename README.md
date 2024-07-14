@@ -9,6 +9,6 @@ It consists out of a html page with 3 stylesheets.
 
 Popover element will help creating toasters, snackbars, tooltips, help ui's that needs to lay on top, ...
 
-I explain this in more detail in this youtube video
 
+I explain this in more detail in this youtube video: 
 https://www.youtube.com/watch?v=mv2Km1gh9qw
